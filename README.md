@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/younes-moukhlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Younes-Moukhlij" height="30" width="40" /></a>
-<a href="https://twitter.com/YounesMoukhlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nassibiyassine" height="30" width="40" /></a>
+<a href="https://twitter.com/YounesMoukhlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YounesMoukhlij" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/younesmoukhlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moukhlij younes" height="30" width="40" /></a>
 </p>
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nassibi107&show_icons=true&locale=en" alt="nassibi107" /></p>
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YounesMoukhlij&show_icons=true&locale=en" alt="nassibi107" /></p>
 <p align ="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/Youmoukh" alt="Youmoukh's 42 stats" /></a></p>
