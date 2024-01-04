@@ -1,7 +1,6 @@
-<h1 align="center">Hi There👋, I'm Younes Moukhlij</h1>
+<h1 align="center">Hi There 👋, I'm Younes Moukhlij 🌱 </h1>
 <h2 align = "left"> root:~$ whoami</h2>
-<h5 algin = "left" >>> Software engineer student at [1337](https://1337.ma/en/) </h5>
-<h5 algin = "left">>>“Today a Reader, Tomorrow a Leader.”  </h5>
+<h5 algin = "left"> “ Today a Reader, Tomorrow a Leader. ”  </h5>
 <p align="center"><img src="https://github.com/Nassibi107/Nassibi107/assets/96869934/f0d82a52-d8b4-47f1-9deb-41c31c53331a"></p>
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
