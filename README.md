@@ -6,9 +6,8 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 Khouribga.
-├─▣ Master Degree in materials science.
 ├─▣ From Morocco.
-├─▣ Interested in low-level Programming, Data Science and AI.
+├─▣ Interested in low-level Programming.
 │
 └───────────────────────────────▰▰▰
 </pre>
