@@ -4,7 +4,7 @@
 
 ## About Me
 
-    I am a software engineering student at [1337](https://1337.ma)
+I am a software engineering student at [1337](https://1337.ma)
 
 ## Experience
 - **1337 Morocco Student**
