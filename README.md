@@ -2,19 +2,9 @@
 <h2 align = "left"> root:~$ whoami</h2>
 <h5 algin = "left"> “ Today a Reader, Tomorrow a Leader. ”  </h5>
 
-<br>
-┌──┤ WHOAMI ├─────────▰▰▰
-<br>
-│
-├─▣ Software Engineer Student at 1337 Khouribga.
-<br>
-├─▣ From Morocco.
-<br>
-├─▣ Interested in low-level Programming.
-│
-<br>
-└───────────────────────────────▰▰▰
-<br>
+## About Me
+
+    I am a software engineering student at [1337](https://1337.ma)
 
 ## Experience
 - **1337 Morocco Student**
