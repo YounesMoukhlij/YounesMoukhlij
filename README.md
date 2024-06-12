@@ -11,11 +11,11 @@
 │
 └───────────────────────────────▰▰▰
 
-  ## Experience
+## Experience
 - **1337 Morocco Student**
-  - *November 2023 - Present*
-  - Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
-  - Completed a diverse range of projects covering various domains, including:
+  • *November 2023 - Present*
+  • Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
+  • Completed a diverse range of projects covering various domains, including:
     - [Libft](https://github.com/YounesMoukhlij/libft): C - Libraries
     - [get_next_line](https://github.com/YounesMoukhlij/get_next_line): C - Static variables
     - [ft_printf](https://github.com/YounesMoukhlij/ft_printf): C - Variadic functions
@@ -28,7 +28,7 @@
     - [cub3D](https://github.com/YounesMoukhlij/Cub3D): C - GameDev using raycasting
     - [NetPractice](https://github.com/YounesMoukhlij/Net_Practice_Script): C - Networking
     - [CPP-Modules](https://github.com/YounesMoukhlij/CPP_Modules): C++ - Oriented Object Programming
-  - Actively seeking opportunities to further develop and expand my skill set.
+  • Actively seeking opportunities to further develop and expand my skill set.
 
 ## Skills
 - **Programming Languages:** C, C++, HTML, CSS
