@@ -6,13 +6,11 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 <br>
 │
-<br>
 ├─▣ Software Engineer Student at 1337 Khouribga.
 <br>
 ├─▣ From Morocco.
 <br>
 ├─▣ Interested in low-level Programming.
-<br>
 │
 <br>
 └───────────────────────────────▰▰▰
