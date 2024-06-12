@@ -2,7 +2,7 @@
 <h2 align = "left"> root:~$ whoami</h2>
 <h5 algin = "left"> “ Today a Reader, Tomorrow a Leader. ”  </h5>
 
-<pre>
+
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 Khouribga.
