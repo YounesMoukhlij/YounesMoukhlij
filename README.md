@@ -2,7 +2,7 @@
 <h2 align = "left"> root:~$ whoami</h2>
 <h5 algin = "left"> “ Today a Reader, Tomorrow a Leader. ”  </h5>
 
-
+<br>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Software Engineer Student at 1337 Khouribga.
@@ -34,7 +34,8 @@
 - **Programming Languages:** C, C++, HTML, CSS
 - **Concepts:** Networking, Sysadmin, Game Development, Sorting Algorithms
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication
-</pre>
+</br>
+
 - 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **younesmoukhlijofficial@gmail.com**
