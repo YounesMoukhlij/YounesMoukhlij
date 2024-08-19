@@ -20,14 +20,14 @@ I am a software engineering student at [1337](https://1337.ma)
     - [push_swap](https://github.com/YounesMoukhlij/push_swap): C - Sorting algorithms and complexity
     - [Philosophers](https://github.com/YounesMoukhlij/philosophers): C - Threads and Processes
     - [minishell](https://github.com/YounesMoukhlij/minishell): C - Making a MiniShell (Processes and file descriptors ...)
-    - [cub3D](https://github.com/YounesMoukhlij/Cub3D): C - GameDev using raycasting
+    - [cub3D](https://github.com/YounesMoukhlij/Cub3D_42): C - GameDev using raycasting
     - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking
     - [CPP-Modules](https://github.com/YounesMoukhlij/CPP_Modules): C++ - Oriented Object Programming
   • Actively seeking opportunities to further develop and expand my skill set.
 
 ## Skills
-- **Programming Languages:** C, C++, HTML, CSS
-- **Concepts:** Networking, Sysadmin, Game Development, Sorting Algorithms
+- **Programming Languages:** C, C++, HTML, CSS, JavaScript.
+- **Concepts:** Networking, Sysadmin, Game Development, Sorting Algorithms ...
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication
 </br>
 
