@@ -22,7 +22,7 @@ I am a software engineering student at [1337](https://1337.ma)
     - [minishell](https://github.com/YounesMoukhlij/minishell): C - Making a MiniShell (Processes and file descriptors ...)
     - [cub3D](https://github.com/YounesMoukhlij/Cub3D_42): C - GameDev using raycasting
     - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking
-    - [CPP-Modules](https://github.com/YounesMoukhlij/CPP_Modules): C++ - Oriented Object Programming
+    - [CPP-Modules](https://github.com/YounesMoukhlij/CPP-Modules): C++ - Oriented Object Programming
   • Actively seeking opportunities to further develop and expand my skill set.
 
 ## Skills
