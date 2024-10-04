@@ -31,9 +31,9 @@ I am a software engineering student at [1337](https://1337.ma)
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication
 </br>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **younesmoukhlijofficial@gmail.com**
+- 📫 How to reach me **[Email](younesmoukhlijofficial@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
