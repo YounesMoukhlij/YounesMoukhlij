@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Younes Moukhlij 🌱 </h1>
-<h2 align = "left"> root:~$ whoami</h2>
+<h2 align = "left"> younesmoukhlij/root: >$ whoami</h2>
 <h5 algin = "left"> “ Today a Reader, Tomorrow a Leader. ”  </h5>
 
 ## About Me
@@ -27,11 +27,11 @@ I am a software engineering student at [1337](https://1337.ma)
 
 ## Skills
 - **Programming Languages:** C, C++, HTML, CSS, JavaScript.
-- **Concepts:** Networking, Sysadmin, Game Development, Sorting Algorithms ...
-- **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication
+- **Concepts:** Networking, Sysadmin, Game Development, Data Structures, Sorting Algorithms ...
+- **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnnnnd ofc some Humour 🙂
 </br>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Web Developement**, Data Science enthusiasts 
 
 - 📫 How to reach me **[Email](younesmoukhlijofficial@gmail.com)**
 
