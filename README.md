@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Younes Moukhlij 🌱 </h1>
-<h2 align = "left"> younesmoukhlij/root: >$ whoami</h2>
+<h2 align = "left"> younesmoukhlij/root >$ whoami</h2>
 <h5 algin = "left"> “ Today a Reader, Tomorrow a Leader. ”  </h5>
 
 ## About Me
