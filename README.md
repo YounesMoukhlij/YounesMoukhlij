@@ -1,8 +1,10 @@
-<h1 align="center">Hi There 👋, I'm Younes Moukhlij. Front End DeV & Data Science Enthusiast 🌱 </h1>
+<h1 align="center">Hi There 👋, I'm Younes Moukhlij.  🌱 </h1>
 <h2 align = "left"> younesmoukhlij/root >$ whoami</h2>
 <h5 algin = "left"> “ Today a Reader, Tomorrow a Leader. ”  </h5>
 
 ## About Me
+
+I'm a Front End DeV & Data Science Enthusiast.
 
 With a Master’s degree in Physics, specializing in the physics of materials, and currently pursuing software engineering at [1337](https://1337.ma), I am immersed in a dynamic and rigorous curriculum that emphasizes practical learning, problem-solving.
 I also blend strong analytical thinking with engineering principles to lead projects and solve complex problems.
