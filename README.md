@@ -39,8 +39,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnnnnd ofc some Humour 🙂
 </br>
 
-- 🌱 I’m currently learning **Web Developement**, Data Science enthusiasts.
-
+- 🌱 I’m currently learning **Web Developement**.
 - 📫 How to reach me **[Email](younesmoukhlijofficial@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
