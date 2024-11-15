@@ -31,7 +31,6 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [cub3D](https://github.com/YounesMoukhlij/Cub3D_42): C - GameDev using raycasting
     - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking
     - [CPP-Modules](https://github.com/YounesMoukhlij/CPP-Modules): C++ - Oriented Object Programming
-  • Actively seeking opportunities to further develop and expand my skill set.
 
 ## Skills
 - **Programming Languages:** C, C++, HTML, CSS, JavaScript.
