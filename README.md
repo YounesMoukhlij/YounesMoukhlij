@@ -27,7 +27,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [so_long](https://github.com/YounesMoukhlij/so_long): C - 2D Game
     - [push_swap](https://github.com/YounesMoukhlij/push_swap): C - Sorting algorithms and complexity
     - [Philosophers](https://github.com/YounesMoukhlij/philosophers): C - Threads and Processes
-    - [minishell](https://github.com/YounesMoukhlij/minishell): C - Making a MiniShell (Processes and file descriptors ...)
+    - [minishell](https://github.com/YounesMoukhlij/minishell): C - Making a mini Bash (Processes and file descriptors ...)
     - [cub3D](https://github.com/YounesMoukhlij/Cub3D_42): C - GameDev using raycasting
     - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking
     - [CPP-Modules](https://github.com/YounesMoukhlij/CPP-Modules): C++ - Oriented Object Programming
