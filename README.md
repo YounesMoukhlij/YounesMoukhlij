@@ -14,7 +14,7 @@ Since November 2023, I have tackled a wide array of projects, honing my skills i
 Driven by discipline, a continuous learning mindset, and a passion for problem-solving, I am eager to take on new challenges and further expand my skill set.
 Collaboration and communication are at the core of my work, and I thrive in team environments where I can contribute and grow alongside others.
 
-## Experience
+## 1337 Experience
 - **1337 Morocco Student**
   • *November 2023 - Present*
   • Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
