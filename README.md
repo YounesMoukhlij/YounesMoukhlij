@@ -19,7 +19,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
   • *November 2023 - Present*
   • Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
   • Completed a diverse range of projects covering various domains, including:
-    - [Libft](https://github.com/YounesMoukhlij/libft): C - Libraries
+    - [Libft](https://github.com/YounesMoukhlij/libft): C - A C Library that contains essential functions ... 
     - [get_next_line](https://github.com/YounesMoukhlij/get_next_line): C - Static variables
     - [ft_printf](https://github.com/YounesMoukhlij/ft_printf): C - Variadic functions
     - [born2beroot](https://github.com/YounesMoukhlij/born2beroot): Sysadmin
@@ -28,8 +28,8 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [push_swap](https://github.com/YounesMoukhlij/push_swap): C - Sorting algorithms and complexity
     - [Philosophers](https://github.com/YounesMoukhlij/philosophers): C - Threads and Processes
     - [minishell](https://github.com/YounesMoukhlij/minishell): C - Making a mini Bash (Processes and file descriptors ...)
-    - [cub3D](https://github.com/YounesMoukhlij/Cub3D_42): C - GameDev using raycasting
-    - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking
+    - [cub3D](https://github.com/YounesMoukhlij/Cub3D_42): C - Fake 3D game using raycasting
+    - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking, OSI Model ... 
     - [CPP-Modules](https://github.com/YounesMoukhlij/CPP-Modules): C++ - Oriented Object Programming
 
 ## Skills
