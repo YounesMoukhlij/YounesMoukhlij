@@ -34,7 +34,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
  
 ## Front End Projects
 
-** Simple :
+**Simple :**
     - [Background Color Changer](https://github.com/YounesMoukhlij/Random-Background-Color-Changer) : Simple HTML, CSS & Js code to change background color of the page.
 
 ## Skills
