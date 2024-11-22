@@ -36,7 +36,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
 
 **Simple :**
 - [Background Color Changer](https://github.com/YounesMoukhlij/Random-Background-Color-Changer) : Simple HTML, CSS & Js code to change background color of the page.
-- [Rock-Paper-Scissor](https://github.com/YounesMoukhlij/Rock-Paper-Scissors) :
+- [Rock-Paper-Scissor](https://github.com/YounesMoukhlij/Rock-Paper-Scissors) : This is a very simple project showcases a classic Rock, Paper, Scissors game, developed using JavaScript, that allows players to engage in a dynamic, browser-based experience. The game incorporates key JavaScript techniques, including DOM manipulation, event handling, and simple logic-based gameplay mechanics, making it both a fun activity for users and an excellent example of practical web development skills.
 
 ## Skills
 - **Programming Languages:** C, C++, HTML, CSS, JavaScript.
