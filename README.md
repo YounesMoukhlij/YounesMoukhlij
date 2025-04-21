@@ -36,18 +36,19 @@ Collaboration and communication are at the core of my work, and I thrive in team
 ## Front End Projects
 
 **Simple :**
-- [Background Color Changer (FreeCodeCamp Course)](https://github.com/YounesMoukhlij/Random-Background-Color-Changer) : Simple HTML, CSS & Js code to change background color of the page.
-- [Rock-Paper-Scissor (FreeCodeCamp Course)](https://github.com/YounesMoukhlij/Rock-Paper-Scissors) : This is a very simple project showcases a classic Rock, Paper, Scissors game, developed using JavaScript, that allows players to engage in a dynamic, browser-based experience. The game incorporates key JavaScript techniques, including DOM manipulation, event handling, and simple logic-based gameplay mechanics, making it both a fun activity for users and an excellent example of practical web development skills.
-- [Learn HTML by Building a Cat Photo App (FreeCodeCamp Course)](https://github.com/YounesMoukhlij/Learn-HTML-by-Building-a-Cat-Photo-App) : Simple code to learn HTML & CSS.
+
+  - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): A simple Weather App with HTML, CSS & Javascript. 
 
 ## Skills
-- **Programming Languages:** C, C++, HTML, CSS, JavaScript.
+- **Programming Languages:** C, C++, HTML, CSS, JavaScript [ReactJs], Python.
 - **Concepts:** Networking, Sysadmin, Game Development, Data Structures, Sorting Algorithms ...
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnnnnd ofc some Humour 🙂
 </br>
 
 - 🌱 I’m currently learning **Web Developement**.
-- 📫 How to reach me **[Email](younesmoukhlijofficial@gmail.com)**
+- 📫 How to reach me :
+  - **[Email](ymoukhlij@gmail.com)**
+  - **[LinkedIn](https://www.linkedin.com/in/younesmoukhlij/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
