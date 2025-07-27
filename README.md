@@ -32,6 +32,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking, OSI Model ... 
     - [CPP-Modules](https://github.com/YounesMoukhlij/CPP-Modules_42): C++ - Oriented Object Programming
     - [Inception](https://github.com/YounesMoukhlij/Inception_42): Docker
+    - [IRC Server](https://github.com/YounesMoukhlij/IRC_42): IRC Server
  
 ## Front End Projects
 
