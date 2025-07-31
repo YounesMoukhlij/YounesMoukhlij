@@ -40,7 +40,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
 
   - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): A simple Weather App with HTML, CSS & Javascript.
 
-## 📌 Web Development Roadmap
+## Web Development Roadmap
 
 This is my resolution of the [roadmap.sh](https://roadmap.sh/frontend) path for web development.  
 I’m following the recommended steps and implementing each concept through practical projects.
