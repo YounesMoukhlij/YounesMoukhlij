@@ -6,7 +6,7 @@
 
 I'm a Front End DeV & AI Enthusiast.
 
-With a Master’s degree in Physics, specializing in the physics of materials, and currently pursuing software engineering at [1337](https://1337.ma), I am immersed in a dynamic and rigorous curriculum that emphasizes practical learning, problem-solving.
+With a Master’s degree in Physics at [USMS](https://www.usms.ac.ma/), specializing in the physics of materials, and currently pursuing software engineering at [1337](https://1337.ma), I am immersed in a dynamic and rigorous curriculum that emphasizes practical learning, problem-solving.
 I also blend strong analytical thinking with engineering principles to lead projects and solve complex problems.
 I’m always excited to connect with like-minded professionals to share knowledge and explore new opportunities in software engineering and beyond.
 
