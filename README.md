@@ -46,7 +46,7 @@ This is my resolution of the [roadmap.sh](https://roadmap.sh/frontend) path for 
 I’m following the recommended steps and implementing each concept through practical projects.
 
 🔗 You can find the repository that contains links to each project I’ve completed along this journey here:  
-➡️ [My Roadmap Projects Repository](https://github.com/YounesMoukhlij/web-roadmap-projects)
+  - [My Roadmap Projects Repository](https://github.com/YounesMoukhlij/web-roadmap-projects)
 
 
 
