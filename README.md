@@ -58,7 +58,7 @@ I’m following the recommended steps and implementing each concept through prac
 
 - 🌱 I’m currently learning **Web Developement**.
 - 📫 How to reach me :
-  - **[Email](ymoukhlij@gmail.com)**
+  - **[Email](younes.moukhlij@outlook.com)**
   - **[LinkedIn](https://www.linkedin.com/in/younesmoukhlij/)**
 
 <h3 align="left">Connect with me:</h3>
