@@ -38,10 +38,20 @@ Collaboration and communication are at the core of my work, and I thrive in team
 
 **Simple :**
 
-  - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): A simple Weather App with HTML, CSS & Javascript. 
+  - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): A simple Weather App with HTML, CSS & Javascript.
+
+## 📌 Web Development Roadmap
+
+This is my resolution of the [roadmap.sh](https://roadmap.sh/frontend) path for web development.  
+I’m following the recommended steps and implementing each concept through practical projects.
+
+🔗 You can find the repository that contains links to each project I’ve completed along this journey here:  
+➡️ [My Roadmap Projects Repository](https://github.com/YounesMoukhlij/web-roadmap-projects)
+
+
 
 ## Skills
-- **Programming Languages:** C, C++, HTML, CSS, JavaScript [ReactJs], Python.
+- **Programming Languages:** C, C++, HTML, CSS, JavaScript [React.js/Next.js], Python.
 - **Concepts:** Networking, Sysadmin, Game Development, Data Structures, Sorting Algorithms ...
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnnnnd ofc some Humour 🙂
 </br>
