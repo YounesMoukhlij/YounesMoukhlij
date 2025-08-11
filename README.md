@@ -69,8 +69,7 @@ I’m following the recommended steps and implementing each concept through prac
 <a href="https://linkedin.com/in/younesmoukhlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moukhlij younes" height="30" width="40" /></a>
 </p>
 
-<p align ="center">
-[![roadmap.sh](https://roadmap.sh/card/wide/688b5910087fc9883f5cd8a1?variant=dark&roadmaps=%2Cfrontend%3Fr%3Dfrontend-beginner%2Cai-engineer%2Ccpp)](https://roadmap.sh)
-</p>
+  [![roadmap.sh](https://roadmap.sh/card/wide/688b5910087fc9883f5cd8a1?variant=dark&roadmaps=%2Cfrontend%3Fr%3Dfrontend-beginner%2Cai-engineer%2Ccpp)](https://roadmap.sh)
+
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YounesMoukhlij&show_icons=true&locale=en" alt="nassibi107" /></p>
 <p align ="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/Youmoukh" alt="Youmoukh's 42 stats" /></a></p>
