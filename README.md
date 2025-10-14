@@ -21,7 +21,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
   • Completed a diverse range of projects covering various domains, including:
 
 
-  Common Core :
+  ### Common Core :
 
     - [Libft](https://github.com/YounesMoukhlij/libft): C - A C Library that contains essential functions ... 
     - [get_next_line](https://github.com/YounesMoukhlij/get_next_line): C - Static variables
@@ -38,7 +38,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [Inception](https://github.com/YounesMoukhlij/Inception_42): Docker
     - [IRC Server](https://github.com/YounesMoukhlij/IRC_42): IRC Server
 
-  Algo & AI & Data Path :
+  ### Algo & AI & Data Path :
     - [ft_linear_regression](https://github.com/YounesMoukhlij/ft_linear_regression_42) : A small learning project that implements linear regression from scratch to predict car prices using gradient descent
  
 ## Front End Projects
