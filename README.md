@@ -19,7 +19,10 @@ Collaboration and communication are at the core of my work, and I thrive in team
   • *November 2023 - Present*
   • Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
   • Completed a diverse range of projects covering various domains, including:
---------- Common Core ---------
+
+
+  Common Core :
+
     - [Libft](https://github.com/YounesMoukhlij/libft): C - A C Library that contains essential functions ... 
     - [get_next_line](https://github.com/YounesMoukhlij/get_next_line): C - Static variables
     - [ft_printf](https://github.com/YounesMoukhlij/ft_printf): C - Variadic functions
