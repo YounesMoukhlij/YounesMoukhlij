@@ -4,7 +4,8 @@
 
 ## About Me
 
-I'm a Front End DeV & AI Enthusiast.
+🌱 - I'm a Full Stack DeV & AI Enthusiast.
+🌱 - I’m currently learning **Machine Learning**.
 
 With a Master’s degree in Physics at [USMS](https://www.usms.ac.ma/), specializing in the physics of materials, and currently pursuing software engineering at [1337](https://1337.ma), I am immersed in a dynamic and rigorous curriculum that emphasizes practical learning, problem-solving.
 I also blend strong analytical thinking with engineering principles to lead projects and solve complex problems.
@@ -67,15 +68,12 @@ I’m following the recommended steps and implementing each concept through prac
 - **Programming Languages:** C, C++, HTML, CSS, JavaScript [React.js/Next.js], Python.
 - **Concepts:** Networking, Sysadmin, Game Development, Data Structures, Sorting Algorithms ...
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnd ofc some Humour 🙂
-</br>
-
-- 🌱 I’m currently learning **Web Developement**.
-- 📫 How to reach me :
-  - **[Email](younes.moukhlij@outlook.com)**
-  - **[LinkedIn](https://www.linkedin.com/in/younesmoukhlij/)**
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with Me
+
+
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/younes-moukhlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Younes-Moukhlij" height="30" width="40" /></a>
 <a href="https://twitter.com/YounesMoukhlij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YounesMoukhlij" height="30" width="40" /></a>
