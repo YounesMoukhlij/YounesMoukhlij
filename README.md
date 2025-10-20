@@ -46,6 +46,13 @@ Collaboration and communication are at the core of my work, and I thrive in team
 **Simple :**
 
   - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): A simple Weather App with HTML, CSS & Javascript.
+  - [Portail Patient](https://github.com/YounesMoukhlij/Portail-Patient): Bienvenue sur le Portail Patient, une application Next.js moderne et responsive pour la gestion et la visualisation d’un carnet de suivi médical.
+  - [YounDoro](https://github.com/YounesMoukhlij/YounDoro): YounDoro is a professional Pomodoro Timer app featuring a beautiful UI, advanced state management, and a fully responsive layout. Built for productivity, learning, and extensibility.
+    
+## Full Stack Projects
+
+  - [YounAuth](https://github.com/YounesMoukhlij/YounAuth): (Still Under Work) A full-stack authentication system where users can sign up and sign in through a React.js form. The backend (Node.js + Express) connects to a MySQL database to securely store and verify user credentials, with error handling and validation included.
+  - [YounCom] (https://github.com/YounesMoukhlij/YounCom) : (Still Under Work)
 
 ## Web Development Roadmap
 
