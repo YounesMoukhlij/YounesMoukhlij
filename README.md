@@ -66,7 +66,7 @@ I’m following the recommended steps and implementing each concept through prac
 ## Skills
 - **Programming Languages:** C, C++, HTML, CSS, JavaScript [React.js/Next.js], Python.
 - **Concepts:** Networking, Sysadmin, Game Development, Data Structures, Sorting Algorithms ...
-- **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnnnnd ofc some Humour 🙂
+- **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnd ofc some Humour 🙂
 </br>
 
 - 🌱 I’m currently learning **Web Developement**.
