@@ -40,8 +40,9 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [IRC Server](https://github.com/YounesMoukhlij/IRC_42): C++ - IRC Server
     - [Ft_trenscandence](https://github.com/YounesMoukhlij/ft_trenscandence): Fullstack application, It is a real-time multiplayer ping-pong platform with social features, tournaments, and OAuth-based authentication.
 
-  ### Algo & AI & Data Path :
+  ### Algo & AI & Data Path (After CC):
     - [ft_linear_regression](https://github.com/YounesMoukhlij/ft_linear_regression_42) : A small learning project that implements linear regression from scratch to predict car prices using gradient descent
+    - [Piscine for Data Science](https://github.com/YounesMoukhlij/42-Python-Piscine) : Exercices to dive into Python Fundamentals and introduce you to AI and Data Science.
  
 ## Front End Projects
 
@@ -93,6 +94,8 @@ I’m following the recommended steps and implementing each concept through prac
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YounesMoukhlij" height="30" width="40" />
   </a>
 </p>
+
+- [Portofolio](younesmoukhlij.vercel.app)
 
 
   [![roadmap.sh](https://roadmap.sh/card/wide/688b5910087fc9883f5cd8a1?variant=dark&roadmaps=%2Cfrontend%3Fr%3Dfrontend-beginner%2Cai-engineer%2Ccpp)](https://roadmap.sh)
