@@ -46,10 +46,10 @@ Collaboration and communication are at the core of my work, and I thrive in team
 ## Front End Projects
 
 
-  - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): A simple Weather App with HTML, CSS & Javascript.
-  - [Portail Patient](https://github.com/YounesMoukhlij/Portail-Patient): Bienvenue sur le Portail Patient, une application Next.js moderne et responsive pour la gestion et la visualisation d’un carnet de suivi médical. (Built for an Interview)
-  - [YounDoro](https://github.com/YounesMoukhlij/YounDoro): YounDoro is a professional Pomodoro Timer app featuring a beautiful UI, advanced state management, and a fully responsive layout. Built for productivity, learning, and extensibility.
-  - [YounesAi](https://github.com/YounesMoukhlij/younes-ai) :  Younes Ai is a modern, AI-powered web application that combines conversational AI with a polished, immersive interface. (Built for an Interview) [demo](younes-ai.vercel.app)
+  - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): [demo](https://younweather.vercel.app/) A simple Weather App with HTML, CSS & Javascript.
+  - [Portail Patient](https://github.com/YounesMoukhlij/Portail-Patient): [demo](portailpatient.vercel.app) Bienvenue sur le Portail Patient, une application Next.js moderne et responsive pour la gestion et la visualisation d’un carnet de suivi médical. (Built for an Interview)
+  - [YounDoro](https://github.com/YounesMoukhlij/YounDoro): [demo](youn-doro.vercel.app) YounDoro is a professional Pomodoro Timer app featuring a beautiful UI, advanced state management, and a fully responsive layout. Built for productivity, learning, and extensibility.
+  - [YounesAi](https://github.com/YounesMoukhlij/younes-ai) : [demo](younes-ai.vercel.app) Younes Ai is a modern, AI-powered web application that combines conversational AI with a polished, immersive interface. (Built for an Interview) 
     
 ## Full Stack Projects
 
