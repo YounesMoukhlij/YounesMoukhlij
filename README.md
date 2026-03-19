@@ -46,8 +46,6 @@ Collaboration and communication are at the core of my work, and I thrive in team
  
 ## Front End Projects
 
-
-  - [WeatherApp](https://github.com/YounesMoukhlij/Weather-App): [demo](https://younweather.vercel.app/) A simple Weather App with HTML, CSS & Javascript.
   - [Portail Patient](https://github.com/YounesMoukhlij/Portail-Patient): [demo](portailpatient.vercel.app) Bienvenue sur le Portail Patient, une application Next.js moderne et responsive pour la gestion et la visualisation d’un carnet de suivi médical. (Built for an Interview)
   - [YounDoro](https://github.com/YounesMoukhlij/YounDoro): [demo](youn-doro.vercel.app) YounDoro is a professional Pomodoro Timer app featuring a beautiful UI, advanced state management, and a fully responsive layout. Built for productivity, learning, and extensibility.
   - [YounesAi](https://github.com/YounesMoukhlij/younes-ai) : [demo](younes-ai.vercel.app) Younes Ai is a modern, AI-powered web application that combines conversational AI with a polished, immersive interface. (Built for an Interview) 
@@ -55,21 +53,13 @@ Collaboration and communication are at the core of my work, and I thrive in team
 ## Full Stack Projects
 
   - [YounAuth](https://github.com/YounesMoukhlij/YounAuth): (Still Under Work) A full-stack authentication system where users can sign up and sign in through a React.js form. The backend (Node.js + Express) connects to a MySQL database to securely store and verify user credentials, with error handling and validation included.
-  - [YounCom](https://github.com/YounesMoukhlij/YounCom) : (Still Under Work)
-  
+  - [SimpleDashboard](https://github.com/YounesMoukhlij/Simple-Full-Stack-Dashboard) : (Still Under Work) 
 
-## Web Development Roadmap
-
-This is my resolution of the [roadmap.sh](https://roadmap.sh/frontend) path for web development.  
-I’m following the recommended steps and implementing each concept through practical projects.
-
-🔗 You can find the repository that contains links to each project I’ve completed along this journey here:  
-  - [My Roadmap Projects Repository](https://github.com/YounesMoukhlij/web-roadmap-projects)
-
-
+## Ressources
+  - [Ressources](https://github.com/YounesMoukhlij/Ressources) : Books in different fields that may concern you.
 
 ## Skills
-- **Programming Languages:** C, C++, HTML, CSS, JavaScript [React.js/Next.js], Python.
+- **Programming Languages:** C, C++, HTML, CSS, JavaScript [React.js/Next.js], Python [FASTAPI ...], SQL DB [ORM ...].
 - **Concepts:** Networking, Sysadmin, Game Development, Data Structures, Sorting Algorithms ...
 - **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork, Communication .... Annnnnd ofc some Humour 🙂
 
