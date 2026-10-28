@@ -46,6 +46,7 @@ Collaboration and communication are at the core of my work, and I thrive in team
  
 ## PhD Projects
   - [Moukhlij Batteries Visualization](https://batteryvisualization.vercel.app/) : Moukhlij Batteries Visualization (MBatVisualization): interactive Li-ion, Na-ion and solid-state battery science in English and French. Step-by-step animations, 3D crystal structures, electrode data, voltage curves and electrochemistry tools, backed by peer-reviewed sources. Built with Next.js by Younes Moukhlij.
+  - [Moukhlij Materials Extractor](https://github.com/YounesMoukhlij/) (Python Package) still in progress
 
  
 ## Front End Projects
