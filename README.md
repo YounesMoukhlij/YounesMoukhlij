@@ -44,6 +44,10 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [ft_linear_regression](https://github.com/YounesMoukhlij/ft_linear_regression_42) : A small learning project that implements linear regression from scratch to predict car prices using gradient descent
     - [Piscine for Data Science](https://github.com/YounesMoukhlij/42-Python-Piscine) : Exercices to dive into Python Fundamentals and introduce you to AI and Data Science.
  
+## PhD Projects
+  - [Moukhlij Batteries Visualization](https://batteryvisualization.vercel.app/) : Moukhlij Batteries Visualization (MBatVisualization): interactive Li-ion, Na-ion and solid-state battery science in English and French. Step-by-step animations, 3D crystal structures, electrode data, voltage curves and electrochemistry tools, backed by peer-reviewed sources. Built with Next.js by Younes Moukhlij.
+
+ 
 ## Front End Projects
 
   - [Portail Patient](https://github.com/YounesMoukhlij/Portail-Patient): [demo](portailpatient.vercel.app) Bienvenue sur le Portail Patient, une application Next.js moderne et responsive pour la gestion et la visualisation d’un carnet de suivi médical. (Built for an Interview)
