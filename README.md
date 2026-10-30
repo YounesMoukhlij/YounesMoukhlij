@@ -36,13 +36,16 @@ Collaboration and communication are at the core of my work, and I thrive in team
     - [cub3D](https://github.com/YounesMoukhlij/Cub3D_42): C - Fake 3D game using raycasting
     - [NetPractice](https://github.com/YounesMoukhlij/Net-Practice_42): C - Networking, OSI Model ... 
     - [CPP-Modules](https://github.com/YounesMoukhlij/CPP-Modules_42): C++ - Oriented Object Programming
-    - [Inception](https://github.com/YounesMoukhlij/Inception_42): Docker
+    - [Inception](https://github.com/YounesMoukhlij/Inception_42): Docker, containers ...
     - [IRC Server](https://github.com/YounesMoukhlij/IRC_42): C++ - IRC Server
     - [Ft_trenscandence](https://github.com/YounesMoukhlij/ft_transcendence_42): NextJs, Docker, NodeJs, SQL ... - Fullstack application, It is a real-time multiplayer ping-pong platform with social features, tournaments, and OAuth-based authentication.
-
-  ### Algo & AI & Data Path (After CC):
+  ### Advanced Cursus:
+   #### Algo & AI & Data Path:
     - [ft_linear_regression](https://github.com/YounesMoukhlij/ft_linear_regression_42) : A small learning project that implements linear regression from scratch to predict car prices using gradient descent
     - [Piscine for Data Science](https://github.com/YounesMoukhlij/42-Python-Piscine) : Exercices to dive into Python Fundamentals and introduce you to AI and Data Science.
+   #### DevOps & Network Engineering
+    - [Inception of Things](https://github.com/YounesMoukhlij/Inception-of-Things) : This project aims to deepen your knowledge by having you work with K3d and K3s, using Vagrant. You will learn how to set up your own virtual machine with Vagrant, choosing the distribution of your preference. Next, you will learn to use K3s and its Ingress controller. Finally, you will discover K3d, a tool designed to make your life easier. These steps will help you take your first steps with Kubernetes.
+    - [Cloud-I](https://github.com/YounesMoukhlij/Cloud-I) : on progress
  
 ## PhD Projects
   - [Moukhlij Batteries Visualization](https://batteryvisualization.vercel.app/) : Moukhlij Batteries Visualization (MBatVisualization): interactive Li-ion, Na-ion and solid-state battery science in English and French. Step-by-step animations, 3D crystal structures, electrode data, voltage curves and electrochemistry tools, backed by peer-reviewed sources. Built with Next.js by Younes Moukhlij.
