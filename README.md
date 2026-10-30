@@ -100,7 +100,5 @@ Collaboration and communication are at the core of my work, and I thrive in team
 - [Portofolio](younesmoukhlij.vercel.app)
 
 
-  [![roadmap.sh](https://roadmap.sh/card/wide/688b5910087fc9883f5cd8a1?variant=dark&roadmaps=%2Cfrontend%3Fr%3Dfrontend-beginner%2Cai-engineer%2Ccpp)](https://roadmap.sh)
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YounesMoukhlij&show_icons=true&locale=en" alt="nassibi107" /></p>
-<p align ="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/Youmoukh" alt="Youmoukh's 42 stats" /></a></p>
+[![<youmoukh>'s 42 stats](https://badge.mediaplus.ma/darkblue/<youmoukh>)](https://github.com/oakoudad/badge42)
