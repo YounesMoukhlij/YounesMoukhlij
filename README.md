@@ -80,5 +80,3 @@ Collaboration and communication are at the core of my work, and I thrive in team
 [![Elite 1337 rank](https://www.elite-1337.app/api/card/161978.svg?t=V_8cnis6UjGk_Q2hgrFqzX9o2G7PKDsDBeJ-F3o0jf8&theme=dark&accent=sky)](https://www.elite-1337.app)
 
 
-
-[![<youmoukh>'s 42 stats](https://badge.mediaplus.ma/darkblue/<youmoukh>)](https://github.com/oakoudad/badge42)
